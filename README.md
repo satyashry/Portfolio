@@ -1,6 +1,6 @@
 # 🌐 Portfolio Website
 
-Live: https://your-link.vercel.app
+Live:
 
 ## 👋 About
 This is my personal portfolio website showcasing my work as a Machine Learning Engineer.
